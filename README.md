@@ -1,1 +1,1 @@
-# google1998CSSodev
+## Patika.dev profilime [buradan](https://app.patika.dev/ozkardes) ulaşabilirsiniz.
